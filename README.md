@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on building something great.
+- 🔭 I’m currently working on building something beautiful.
 
 ![clia's GitHub stats](https://github-readme-stats.vercel.app/api?username=clia&show_icons=true)
 
